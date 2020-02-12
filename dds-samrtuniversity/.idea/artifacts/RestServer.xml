@@ -1,0 +1,50 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RestServer">
+    <output-path>$PROJECT_DIR$/out/artifacts/RestServer</output-path>
+    <root id="archive" name="RestServer.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/RestServer/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="dds-samrtuniversity" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20190722/json-20190722.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/influxdb/influxdb-java/2.16/influxdb-java-2.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/retrofit2/retrofit/2.6.1/retrofit-2.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/retrofit2/converter-moshi/2.6.1/converter-moshi-2.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/moshi/moshi/1.8.0/moshi-1.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/msgpack/msgpack-core/0.8.17/msgpack-core-0.8.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.14.3/okhttp-3.14.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okio/okio/1.17.2/okio-1.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okhttp3/logging-interceptor/3.14.3/logging-interceptor-3.14.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sparkjava/spark-core/2.8.0/spark-core-2.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.12.v20180830/jetty-server-9.4.12.v20180830.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-http/9.4.12.v20180830/jetty-http-9.4.12.v20180830.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.4.12.v20180830/jetty-util-9.4.12.v20180830.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-io/9.4.12.v20180830/jetty-io-9.4.12.v20180830.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-webapp/9.4.12.v20180830/jetty-webapp-9.4.12.v20180830.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-xml/9.4.12.v20180830/jetty-xml-9.4.12.v20180830.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-servlet/9.4.12.v20180830/jetty-servlet-9.4.12.v20180830.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-security/9.4.12.v20180830/jetty-security-9.4.12.v20180830.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-server/9.4.12.v20180830/websocket-server-9.4.12.v20180830.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-common/9.4.12.v20180830/websocket-common-9.4.12.v20180830.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-client/9.4.12.v20180830/websocket-client-9.4.12.v20180830.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-client/9.4.12.v20180830/jetty-client-9.4.12.v20180830.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-servlet/9.4.12.v20180830/websocket-servlet-9.4.12.v20180830.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-api/9.4.12.v20180830/websocket-api-9.4.12.v20180830.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/distlog.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/distlogd.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/distlogdatamodel.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/distlogdatamodeld.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/nddsjava.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/nddsjavad.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rticonnextmsg.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rticonnextmsgd.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rtiroutingservice.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rtiroutingserviced.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rtirsadapter.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rtirsadapterd.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

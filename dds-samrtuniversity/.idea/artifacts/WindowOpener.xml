@@ -1,0 +1,33 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WindowOpener">
+    <output-path>$PROJECT_DIR$/out/artifacts/WindowOpener</output-path>
+    <root id="archive" name="WindowOpener.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/WindowOpener/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="dds-samrtuniversity" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20190722/json-20190722.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/distlog.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/distlogd.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/distlogdatamodel.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/distlogdatamodeld.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/nddsjava.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/nddsjavad.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rticonnextmsg.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rticonnextmsgd.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rtiroutingservice.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rtiroutingserviced.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rtirsadapter.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rtirsadapterd.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/influxdb/influxdb-java/2.16/influxdb-java-2.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/retrofit2/retrofit/2.6.1/retrofit-2.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/retrofit2/converter-moshi/2.6.1/converter-moshi-2.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/moshi/moshi/1.8.0/moshi-1.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/msgpack/msgpack-core/0.8.17/msgpack-core-0.8.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.14.3/okhttp-3.14.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okio/okio/1.17.2/okio-1.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okhttp3/logging-interceptor/3.14.3/logging-interceptor-3.14.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

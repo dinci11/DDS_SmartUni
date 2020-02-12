@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/dds-samrtuniversity"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="distlog" value="project"/>
+		<level name="org.apache.commons:commons-collections4:4.4" value="project"/>
+		<level name="org.influxdb:influxdb-java:2.16" value="project"/>
+		<level name="org.json:json:20190722" value="project"/>
+	</levels>
+</component>

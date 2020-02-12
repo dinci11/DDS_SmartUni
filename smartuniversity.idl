@@ -1,0 +1,40 @@
+struct Temperature{
+    long value;
+    long long timeStamp;
+};
+
+struct Humidity{
+    long value;
+    long long timeStamp;
+};
+
+struct Smoke{
+    long value;
+    long long timeStamp;
+};
+
+struct WeatherData{
+    long outTemperature;
+    long outHumidity;
+    long windSpeed;
+};
+
+struct CalendarData{
+    long long date;
+    boolean isWeekday;
+    boolean isNationalHoliday;
+    boolean isUniversityHoliday;
+    boolean isLecture;
+};
+
+struct WindowOpen{
+    double intensity;
+};
+
+struct Cooling{
+    double intensity;
+};
+
+struct Heating{
+    double intensity;
+};

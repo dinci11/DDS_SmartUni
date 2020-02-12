@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="distlog">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/rti_connext_dds-6.0.0/lib/java/distlog.jar!/" />
+      <root url="jar://$USER_HOME$/rti_connext_dds-6.0.0/lib/java/distlogd.jar!/" />
+      <root url="jar://$USER_HOME$/rti_connext_dds-6.0.0/lib/java/distlogdatamodel.jar!/" />
+      <root url="jar://$USER_HOME$/rti_connext_dds-6.0.0/lib/java/distlogdatamodeld.jar!/" />
+      <root url="jar://$USER_HOME$/rti_connext_dds-6.0.0/lib/java/nddsjava.jar!/" />
+      <root url="jar://$USER_HOME$/rti_connext_dds-6.0.0/lib/java/nddsjavad.jar!/" />
+      <root url="jar://$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rticonnextmsg.jar!/" />
+      <root url="jar://$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rticonnextmsgd.jar!/" />
+      <root url="jar://$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rtiroutingservice.jar!/" />
+      <root url="jar://$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rtiroutingserviced.jar!/" />
+      <root url="jar://$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rtirsadapter.jar!/" />
+      <root url="jar://$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rtirsadapterd.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/rti_connext_dds-6.0.0/lib/java/distlogdatamodel.jar!/" />
+      <root url="jar://$USER_HOME$/rti_connext_dds-6.0.0/lib/java/distlogdatamodeld.jar!/" />
+      <root url="jar://$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rtirsadapter.jar!/" />
+      <root url="jar://$USER_HOME$/rti_connext_dds-6.0.0/lib/java/rtirsadapterd.jar!/" />
+    </SOURCES>
+  </library>
+</component>
